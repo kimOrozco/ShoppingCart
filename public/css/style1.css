@@ -1,0 +1,22 @@
+.image img {
+	height: 300px;
+	width: 255px;
+}
+.container {
+    font-size: 20px;
+    /*background-image: url(img/MuIV2JN.jpg);*/
+}
+.name {
+	font-size: 20px;	
+}
+.imageCart img {
+	height: 150px;
+	width: 200px;
+}
+#shopButton {
+	margin-left: 400px;
+	margin-top: 20px;
+	display: inline;
+}
+#add {
+}
